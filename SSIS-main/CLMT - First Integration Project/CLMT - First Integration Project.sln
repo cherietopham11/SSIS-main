@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "CLMT - First Integration Project", "CLMT - First Integration Project.dtproj", "{901EC2C9-D90B-40FC-99A3-984532F9A7AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{901EC2C9-D90B-40FC-99A3-984532F9A7AC}.Development|Default.ActiveCfg = Development
+		{901EC2C9-D90B-40FC-99A3-984532F9A7AC}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74E2C835-5046-456B-A128-A88760B5C8C3}
+	EndGlobalSection
+EndGlobal

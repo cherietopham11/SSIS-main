@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "CLMT - SSAS Report Project 1", "CLMT - SSAS Report Project 1.dwproj", "{91015EEC-8F29-4BA0-BC0A-447E72BB0EEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91015EEC-8F29-4BA0-BC0A-447E72BB0EEA}.Development|Default.ActiveCfg = Development
+		{91015EEC-8F29-4BA0-BC0A-447E72BB0EEA}.Development|Default.Build.0 = Development
+		{91015EEC-8F29-4BA0-BC0A-447E72BB0EEA}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB5DB583-A408-4BC8-A0F0-A90F94B842AF}
+	EndGlobalSection
+EndGlobal

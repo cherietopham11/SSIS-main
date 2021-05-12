@@ -1,0 +1,10 @@
+﻿Build started...
+------ Build started: Project: CLMT - TheResellerPackage, Configuration: Development ------
+Build started: SQL Server Integration Services project: Incremental ...
+Starting project consistency check ...
+Project consistency check completed. The project is consistent.
+File 'C:\Users\Cherie Topham\source\repos\CLMT - TheResellerPackage\obj\Development\Package.dtsx' get updated.
+Applied active configuration to 'Package.dtsx'.
+CLMT - TheResellerPackage -> C:\Users\Cherie Topham\source\repos\CLMT - TheResellerPackage\bin\Development\CLMT - TheResellerPackage.ispac
+Build complete -- 0 errors, 0 warnings
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========

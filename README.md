@@ -1,6 +1,6 @@
 # ETL - SSIS & Python Packages
 
-ETL Packages used for various data integrations.
+ETL solutions used for various data integrations.
 
 ## Use Cases
 
